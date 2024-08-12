@@ -1,16 +1,32 @@
-## Hi there 👋
-
-<!--
-**wumpochuck/wumpochuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="Header">
+    <table align="center">
+        <tbody>
+            <tr>
+                <td>
+                    <p>
+                    <h1 style="color:lightblue">
+                    Hi there 👋 <br> Welcome to my profile!
+                    </h1>
+                    <b>📝 Name:</b> Maxim Zatsepin <br>
+                    <b>📆 Age:</b> 19 <br>
+                    <b>🏳️ Country:</b> Russia
+                    </p>
+                </td>
+                <td>
+                <img width=200 height=150 src="./assets/header_gif1.gif" alt="Welcome GIF" />
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <h3 align="center">
+    👩🏾‍💻 Cybersecurity student, 
+    <img width=16 hegiht=16 src="./assets/21_logo.png" alt="21logo.png" />  School-21 participant <br>
+    💻 Intern backend developer
+    </h3>
+</div>
+<div id="Main">
+    <h2>About</h2>
+    <p>
+        soon...
+    </p>
+</div>

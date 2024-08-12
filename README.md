@@ -1,15 +1,6 @@
-<style>
-    h1, h2, h3 {
-        pointer-events: none;
-        text-decoration: none;
-    }
-    table, tbody{
-        border: none;
-    }
-</style>
 <div>
-    <table align=center>
-        <tbody>
+    <table align=center border=0>
+        <tbody border=0>
             <tr>
                 <td>
                     <p>

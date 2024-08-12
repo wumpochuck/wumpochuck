@@ -1,6 +1,6 @@
 <div>
-    <table align=center border=0>
-        <tbody border=0>
+    <table align=center>
+        <tbody style="border: none;">
             <tr>
                 <td>
                     <p>

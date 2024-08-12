@@ -1,3 +1,12 @@
+<style>
+    h1, h2, h3 {
+        pointer-events: none;
+        text-decoration: none;
+    }
+    table, tbody{
+        border: none;
+    }
+</style>
 <div>
     <table align=center>
         <tbody>

@@ -6,7 +6,7 @@
                     <p>
                     <h1>Hi there 👋 <br> Welcome to my profile!</h1>
                     <b>📝 Name:</b> Maxim Zatsepin <br>
-                    <b>📆 Age:</b> 19 <br>
+                    <b>📆 Age:</b> 20 <br>
                     <b>🏳️ Country:</b> Russia
                     </p>
                 </td>

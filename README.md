@@ -19,7 +19,7 @@
     <h3 align=center>
         👩🏾‍💻 Cybersecurity student, 
         <img width=16 hegiht=16 src="./assets/21_logo.png" alt="21logo.png" />  School-21 participant <br>
-        💻 Intern backend developer
+        💻 Intern DevOps Engineer
     </h3>
     <h1></h1>
 </div>
@@ -60,7 +60,10 @@
                 <b>Python tutor</b> for <b>1.5</b> years
             </li>
             <li>
-                Interested in <b>Backend</b> & <b>IOS</b> Development
+                <b>Intern technical support in R-Vision</b> for <b>2</b> months
+            </li>
+            <li>
+                Interested in <b>DevOps</b>
             </li>
         </ul>
     </p>
@@ -78,14 +81,14 @@
         <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
         <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
         <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-        <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" /> <br>
+        <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> <br>
         <b>C-langs:</b> OOP, Binary files, Unit tests, Logs, Build Systems <br>
         <b>Python:</b> OOP, Binary files, Numpy, Scipy, Canvas <br>
         <b>Java:</b> OOP, Binary files, Sctructured Applications with database <br>
         <b>Godot: </b> Simple platformers & Clickers development <br>
         <b>Cybersecurity: </b> CTF's, Cryptography, Forensics, Wireshark Dumps<br>
         <b>Reverse Engineering: </b> ASM, Disassemblers (IDA Pro, GHIDRA, dnSpy, JaDx) <br>
-        <b>Misc: </b>Linux, Bash (Makefiles), SQL (DML), Git (Remotes, Branches etc.)
+        <b>Misc: </b>Linux, Docker, Bash (Makefiles), SQL (DML), Git (Remotes, Branches etc.)
     <h3>IDE's</h3>
         <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
         <img height=48 width=48 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />

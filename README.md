@@ -19,7 +19,6 @@
     <h3 align=center>
         👩🏾‍💻 Cybersecurity student, 
         <img width=16 hegiht=16 src="./assets/21_logo.png" alt="21logo.png" />  School-21 participant <br>
-        💻 Intern DevOps Engineer
     </h3>
     <h1></h1>
 </div>
@@ -61,9 +60,6 @@
             </li>
             <li>
                 <b>Intern technical support in R-Vision</b> for <b>2</b> months
-            </li>
-            <li>
-                Interested in <b>DevOps</b>
             </li>
         </ul>
     </p>

@@ -6,7 +6,7 @@
                     <p>
                     <h1>Hi there 👋 <br> Welcome to my profile!</h1>
                     <b>📝 Name:</b> Maxim Zatsepin <br>
-                    <b>📆 Age:</b> 20 <br>
+                    <b>📆 Age:</b> 22 <br>
                     <b>🏳️ Country:</b> Russia
                     </p>
                 </td>
@@ -16,10 +16,10 @@
             </tr>
         </tbody>
     </table>
-    <h3 align=center>
+    <!-- <h3 align=center>
         👩🏾‍💻 Cybersecurity student, 
         <img width=16 hegiht=16 src="./assets/21_logo.png" alt="21logo.png" />  School-21 participant <br>
-    </h3>
+    </h3> -->
     <h1></h1>
 </div>
 
@@ -44,22 +44,31 @@
     <p>
         <ul>
             <li>
-                🎓 I study at
+                🎓 I studied at
                 <b><a href="https://mtuci.ru/?lang=en">MTUCI</a></b>
                 &
                 <b><a href="https://21-school.ru/">21-School</a></b>
             </li>
             <li>
-                🧱 Currently learning <b>Docker</b>
+                Hold a <b>Bachelor degree in Information Security</b>
+            </li>
+            <li>
+                🧱 Currently learning <b>Docker & Kubernetes</b>
             </li>
             <li>
                 🏴 Speak <b>Russian</b> <i>(native)</i> & <b>English</b> <i>(B1)</i>
             </li>
             <li>
-                <b>Python tutor</b> for <b>1.5</b> years
+                <b>Python tutor</b> - <b>1.5</b> years
             </li>
             <li>
-                <b>Intern technical support in R-Vision</b> for <b>2</b> months
+                <b>Intern technical support in <a href="https://rvision.ru/">R-Vision</a></b> - <b>2</b> months
+            </li>
+            <li>
+                L1 technical support in <a href="https://www.bellerage.com/ru/"><b>Bellerage</b></a> - 6 months
+            </li>
+            <li>
+                L1-L2 System Administrator in <a href="https://www.ddvb.ru/"><b>DDVB</b></a> - almost 1 year
             </li>
         </ul>
     </p>
